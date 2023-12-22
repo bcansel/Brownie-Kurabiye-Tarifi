@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brownie Kurabiye Tarifi</title>
+
+
+</head>
+<body>
+    <!--Navbar-Start-->
+    <header>
+        <nav><ul>
+        <img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4a-jBK-yskC6-qpdrpXTwH-FlTslrXtkCCg&usqp=CAU"
+         alt="browniekurabiye">
+
+
+    </ul></nav> 
+
+    </header>
+    <!--Navbar-End-->
+    <!--Content-Start-->
+    <Section>    
+    <!--Articles-Start-->
+    <Article><h2>
+        Brownie Kurabiye Tarifi İçin Malzemeler  
+    </h2></Article>
+    <hr>
+    <p>Kaç Kişilik=24 Adet    Hazırlama Süresi= 15 Dakika         Pişirme Süresi= 12 Dakika</p>    
+    <hr>
+
+    <p><strong><em>İçindekiler</em></strong></p>
+    
+    <p><em>Hamuru İçin</em>
+    <ul>
+        <li><strong>125 Gram</strong>tereyağ</li>
+        <li><strong>1 Adet</strong>yumurta</li>
+        <li><strong>1 Çay</strong>bardağı sıvı yağ</li>
+        <li><strong>3 Su bardağı</strong>un</li>
+        <li> <strong>1 Çay bardağı</strong>pudra şekeri</li>
+        <li><strong>4 Yemek kaşığı</strong>kakao</li>
+        <li><strong>1 Paket</strong>vanilin</li>
+        <li> <strong>1 Paket</strong>kabartma tozu</li>
+    </ul>
+    <p><em>Şerbeti İçin</em>
+      <ul>
+        <li><strong>1 Su bardağı</strong>su</li>
+        <li> <strong>1 Su bardağı</strong>toz şeker</li>
+        <li><strong>2 Damla</strong>taze sıkılmış limon suyu</li>
+        
+      </ul>
+   </p>
+  </p>
+
+    <hr>
+
+    <p>Brownie Kurabiye Tarifi Videosu'na Buradan Ulaşabilirsiniz:
+      <a href="https://www.youtube.com/watch?v=pwst2nqufwQ">Brownie Kurabiye Tarifi Videosu</a>
+    </p>
+    <!--Articles-End-->
+    </Section>
+    <!--Content-End-->
+     <!--Footer-Start-->
+     <footer>
+        <strong>Afiyet Olsun!</strong> 
+     </footer>
+     <!--Footer-End-->
+
+</body>
+</html>
+
+
